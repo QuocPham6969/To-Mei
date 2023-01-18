@@ -1,9 +1,9 @@
 const CONFIG = {
     titleWeb: "A small gift from ur boyrfriend",
     introTitle: 'To Mei, My gorgerous lover',
-    introDesc: `Ur adorable, breathtaking, clever, 
-    diligent, funny, "genuine😊", humorous, 
-    impeccable, jovial, knowledgeable, lovable, 
+    introDesc: `Ur adorable, breathtaking, clever 
+    diligent, funny, "genuine😊", humorous 
+    impeccable, jovial, knowledgeable, lovable
     majestic`,
     btnIntro: 'Click heree if you love me❤️',
     title: 'Do you really really love mee 🥰',
